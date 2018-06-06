@@ -1,5 +1,5 @@
 # ios-apprentice
-REPO STATUS: ongoing
+REPO STATUS: on hold
 
 My code from the iOS Apprentice book.
 
